@@ -1,3 +1,15 @@
+## 👨‍💻 Internship Details
+
+- **Company:** CODTECH IT SOLUTIONS  
+- **Name:** Ganesh  
+- **Intern ID:** CT04DF511  
+- **Domain:** Android Development  
+- **Duration:** 4 Weeks  
+- **Mentor:** Neela Santosh  
+
+---
+
+
 # VideoPlayer
 Video Player app with advance playback features using Exoplayer
 ![vidplayer](https://user-images.githubusercontent.com/66561855/224803799-be5f764a-6765-4c60-8a53-d1adf1ea0056.png)
