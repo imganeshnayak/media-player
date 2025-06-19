@@ -51,7 +51,6 @@ It can show videos in folders as well as without folders in a separate section. 
 
 This is the app to meet all the requirements of the media player and along with attractive UI will bring you the best experience.
 
-<a href='https://play.google.com/store/apps/details?id=com.cwise.wplayer&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height='75'/></a>
 
 # Getting Started
 
@@ -60,11 +59,3 @@ This is the app to meet all the requirements of the media player and along with 
 2. Open the project in Android Studio.
 
 3. Build and run the project on an emulator or device.
-
-# License
-
-This project is licensed under The GNU General Public License v3 - see the [LICENSE.md](LICENSE.md) file for details
-
-# Contributions
-
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
